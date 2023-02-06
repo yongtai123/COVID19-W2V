@@ -14,4 +14,4 @@ rural_wv = KeyedVectors.load('model/rural/word2vec.wordvectors')
 rural_wv.similarity('#covid19', '#vaccine')
 ```
 
-If you find our model or paper useful, please consider citing
+If you find our model or paper useful, please consider citing:
